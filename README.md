@@ -42,7 +42,7 @@ Seule l'intégration du formulaire est demandée (pas de traitement serveur).
 
 * Créez un effet de transition sur le fond du sitcky-header lorsque la position du scroll est supérieure à 0
 * Créez une transition de type "smoothscroll" pour la navigation du menu par ancre
-* Ajoutez des effets d'apparition par translation sur les images des mises en situation (téléphones)
+* Ajoutez des effets d'apparition par translation sur les images des mises en situation (téléphones) avec https://materializecss.com/scrollspy.html
 * Ajoutez une validation du champ email du formulaire d'inscription à la newsletter
 
 # Rendu 
