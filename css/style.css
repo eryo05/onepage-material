@@ -1,0 +1,63 @@
+body{
+    color:white;
+}
+#download {
+    background: url('../sources/cover.jpg');
+}
+.gi-2x{font-size: 2em;}
+.gi-3x{font-size: 3em;}
+.gi-4x{font-size: 4em;}
+.gi-5x{font-size: 5em;}
+
+@media screen and (min-width: 992px) {
+    .logo-pingendo{
+        border: 1px solid purple;
+    }
+    .margin-100{
+        margin-top: 100px;
+    }
+    .margin-50{
+        margin-top: 50px;
+    }
+    .margin-200{
+        margin-top: 200 px;
+    }
+    .margin-bottom-50{
+        margin-bottom:50px;
+    }
+    .margin-left-50{
+        margin-left: 50px;
+    }
+    
+  }
+
+.learn{
+    width: 100%;
+    height: auto;
+    max-height: 100vh;
+}
+#benef , #features , #reviews, footer{
+    background: #303030;
+}
+h5{
+    color: rgb(255, 255,102 );
+}
+#download2{
+   background:yellow;
+}
+.row{
+    margin-bottom: 0;
+}
+nav {
+    position: fixed;
+}
+.border-yellow{
+    border-top: 1px solid yellow;
+    border-width: 0.5vk;
+}
+.margin-top-50{
+    margin-top: 50px;
+}
+.border-radius{
+    border-radius: 10px;
+}
